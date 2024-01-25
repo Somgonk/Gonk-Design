@@ -1,2 +1,2 @@
-# Gonk-UI
- A component library
+# Gonk-Design
+ The Gonk Design System
