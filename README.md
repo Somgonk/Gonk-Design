@@ -1,2 +1,2 @@
-# Gonk-Design
- The Gonk Design System
+# Gonk-UI
+ The Gonk UI Design System
