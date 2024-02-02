@@ -1,3 +1,6 @@
 {
-  "hello":"world"
+  "colors": {
+    "primary": 200,
+    "secondary": 150
+  }
 }
