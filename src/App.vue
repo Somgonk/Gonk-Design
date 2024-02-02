@@ -1,5 +1,4 @@
 <script setup lang="ts">
-  import Button from '../lib/components/Button.vue';
   import Text from '../lib/components/Text.vue';
 </script>
 

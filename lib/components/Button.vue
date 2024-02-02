@@ -1,6 +1,7 @@
 <template>
   <button>
     <slot></slot>
+    hehe
   </button>
 </template>
 
