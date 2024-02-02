@@ -11,6 +11,6 @@ export default {
 <style src="../colors.css"></style>
 <style scoped>
 p {
-  background-color: red;
+  background-color: var(--primary-500);
 }
 </style>
